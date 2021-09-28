@@ -1,0 +1,5 @@
+C:\Users\windsnow1024\OneDrive\Files\Documents\C#\Publish\Calculator v1.0\Calculator.exe
+C:\Users\windsnow1024\OneDrive\Files\Documents\C#\Publish\Calculator v1.0\Calculator.dll
+C:\Users\windsnow1024\OneDrive\Files\Documents\C#\Publish\Calculator v1.0\Calculator.deps.json
+C:\Users\windsnow1024\OneDrive\Files\Documents\C#\Publish\Calculator v1.0\Calculator.runtimeconfig.json
+C:\Users\windsnow1024\OneDrive\Files\Documents\C#\Publish\Calculator v1.0\Calculator.pdb
