@@ -187,7 +187,7 @@ namespace Calculator
             }
         }
 
-
+        //等号
 
         private void ButtonEqual(object sender, RoutedEventArgs e)
         {
